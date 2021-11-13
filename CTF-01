@@ -1,3 +1,2 @@
 #!/bin/bash
-f() { bash -c "$BASH_COMMAND" >& /tmp/out.log; }
-trap 'f' DEBUG
+echo $(!!)
